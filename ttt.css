@@ -1,0 +1,20 @@
+body {
+  background-color: #cce;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  font-size: 30px; 
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  display: inline-block;
+  border: 1px solid black;
+  background-color: grey;
+}
